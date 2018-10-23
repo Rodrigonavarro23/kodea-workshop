@@ -1,0 +1,10 @@
+.ws-dashboard__stage-title {
+  font-size: 18px;
+  color: #666666;
+  margin: 5px;
+}
+
+.ws-dashboard__stage-cards {
+  margin: 5px;
+  background-color: #f4f4f4;
+}
